@@ -1,2 +1,1 @@
 123 0777 0x1A miVariable _count @#
-456 0 hola_mundo
